@@ -1,1 +1,2 @@
-Repository de release pour le compagnon Ordoclic Pharmacie
+# compagnon-pharmacie
+Repository de release pour le Compagnon Ordoclic Pharmacie
